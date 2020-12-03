@@ -1,0 +1,8 @@
+C:\Users\DellUser\source\repos\InvoiceManagementApp.Api\InvoiceManagementApp.Application\bin\Debug\netstandard2.1\InvoiceManagementApp.Application.deps.json
+C:\Users\DellUser\source\repos\InvoiceManagementApp.Api\InvoiceManagementApp.Application\bin\Debug\netstandard2.1\InvoiceManagementApp.Application.dll
+C:\Users\DellUser\source\repos\InvoiceManagementApp.Api\InvoiceManagementApp.Application\bin\Debug\netstandard2.1\InvoiceManagementApp.Application.pdb
+C:\Users\DellUser\source\repos\InvoiceManagementApp.Api\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.csprojAssemblyReference.cache
+C:\Users\DellUser\source\repos\InvoiceManagementApp.Api\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.AssemblyInfoInputs.cache
+C:\Users\DellUser\source\repos\InvoiceManagementApp.Api\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.AssemblyInfo.cs
+C:\Users\DellUser\source\repos\InvoiceManagementApp.Api\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.dll
+C:\Users\DellUser\source\repos\InvoiceManagementApp.Api\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.pdb
